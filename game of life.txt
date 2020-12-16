@@ -1,3 +1,4 @@
 Conway's game of life:
 It is a cellular automation devised by Dr. John Conway in 1970.
 Rules of Game of life:
+a) Any live cell with fewer than two live neighbours dies as if by needs caused by underpopulation.
