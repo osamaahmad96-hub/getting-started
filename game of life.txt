@@ -1,0 +1,2 @@
+Conway's game of life:
+It is a cellular automation devised by Dr. John Conway in 1970.
